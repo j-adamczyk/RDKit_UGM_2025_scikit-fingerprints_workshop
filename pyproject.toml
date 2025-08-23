@@ -1,0 +1,10 @@
+[project]
+name = "rdkit-ugm-2025-scikit-fingerprints-workshop"
+version = "0.1.0"
+description = "RDKit UGM 2025 scikit-fingerprints workshop"
+requires-python = ">=3.11"
+
+dependencies = [
+    "jupyter",
+    "scikit-fingerprints==1.16.0"
+]
